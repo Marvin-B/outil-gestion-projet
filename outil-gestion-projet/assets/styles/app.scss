@@ -1,0 +1,27 @@
+@import '~bootstrap/scss/bootstrap';
+
+// Couleurs
+
+$noir : #000000;
+$blanc : #FBFFF1;
+$gris : #f5f5f5;
+$placeholder : rgba(245, 245, 245, 0.5);
+$fond : #3C3744;
+$hover : #F1A208;
+$active : #D5C67A;
+
+@import "_menu";
+
+
+
+body{
+    margin-left: 280px;
+}
+
+div{
+    &#content{
+        padding: 1rem;
+    }
+}
+
+
